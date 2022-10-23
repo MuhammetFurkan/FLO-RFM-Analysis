@@ -5,6 +5,7 @@ Segmenting the customers of FLO, an online shoe store, wants to make sense accor
 ### Features:
 
 **Total Features** : 12 - Total Row : 19.945
+
 **CSV File Size** : 2.7 MB
 
 *  **master_id**  : Unique Customer Number
