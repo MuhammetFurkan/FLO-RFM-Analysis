@@ -3,6 +3,7 @@
 Segmenting the customers of FLO, an online shoe store, wants to make sense according to these segments. It will be designed accordingly and will be created according to this particular clustering. FLO, Wants to determine marketing strategies according to these segments.
 
 ### Features:
+
 **Total Features** : 12 - Total Row : 19.945
 **CSV File Size** : 2.7 MB
 
